@@ -26,6 +26,4 @@ Work PC (HP EliteBook)
 Doc has power, ethernet, display port and audio cables.
 
 KVM
-This lets me switch the Display, Keyboard, Mouse, and desktop speakers between the Home and Work PCs. From the Work PC (Windows 10) I can use FN-PgDn to switch.
-From the Home PC (Mac OS) I installed Trendnet switcher app and I can use Ctrl-1 to switch. There is also a button I mounted under the desk next to the keyboard drawwer
-that will switch inputs.
+This lets me switch the Display, Keyboard, Mouse, and desktop speakers between the Home and Work PCs. From the Work PC (Windows 10) I can use FN-PgDn to switch. From the Home PC (Mac OS) I installed Trendnet switcher app and I can use Ctrl-Alt-1 to switch. There is also a button I mounted under the desk next to the keyboard drawwer that will switch inputs.
